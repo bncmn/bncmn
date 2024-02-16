@@ -12,4 +12,6 @@ I'm currently exploring the many fields that Computer Science has to offer, and 
 - 🏂 In the winters, you can find me snowboarding!
 
 Feel free to reach out to me on [LinkedIn](https://ca.linkedin.com/in/bncmn), on [Discord](https://discord.com/): `0df`, or via email: `d.bncmn@gmail.com`!
-Below, you will find some of the projects I have worked on, both in-school and personally.
+
+Below, you will find some of the projects I have worked on! 
+These consist of projects that I've worked on in my own time, projects I've worked on with friends, and projects I've worked on for school.
