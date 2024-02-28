@@ -13,7 +13,14 @@ I'm currently exploring the many fields that Computer Science has to offer, and 
 - 🚗 I love talking about cars!
 - 🏂 I love snowboarding!
 
-Reach out to me on [LinkedIn](https://ca.linkedin.com/in/bncmn), on [Discord](https://discord.com/): `0df`, or through email: `d.bncmn@gmail.com`!
+## Reach out!
+I will always be monitoring these, so feel free to leave me a message on any of these platforms:
+- [LinkedIn](https://ca.linkedin.com/in/bncmn): `bncmn`
+- [Discord](https://discord.com/): `0df`
+- University Email: `dbuencam@sfu.ca`
+- Personal Email: `d.bncmn@gmail.com`
+
+👀 Take a look at my resume [here](https://github.com/bncmn/bncmn/blob/53f0cfab5fca0c8f9fe4a065f3f9368605e07260/resume.pdf)!
 
 Below, you will find some of the projects I have worked on.
 These consist of projects that I've worked on in my own time, projects I've worked on with friends, and projects I've worked on for school.
