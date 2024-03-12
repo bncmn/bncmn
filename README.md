@@ -7,7 +7,7 @@ I'm a 4th year Computing Science student at [Simon Fraser University](https://ww
 I've enjoyed tinkering and playing with computers since I was a little kid, and I'm glad to be exploring the ever-changing field of computer science!
 
 ### A few things about me!
-- 🌱 I'm currently learning [embedded development](https://www.sfu.ca/outlines.html?2024/spring/cmpt/433/d100) and [cloud computing](https://www.sfu.ca/outlines.html?2024/spring/cmpt/474/d100).
+- 🌱 I'm currently learning [embedded development](https://www.sfu.ca/outlines.html?2024/spring/cmpt/433/d100) and [web systems engineering](https://www.sfu.ca/outlines.html?2024/spring/cmpt/474/d100) at school!
 - 📋 I'm currently helping a friend grow his [small business](https://convivial.ca/)!
 - 🇵🇭 I moved to Canada from the Philippines with my family in 2013.
 - 💻 I love tinkering with electronics!
