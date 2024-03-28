@@ -21,7 +21,7 @@ I will always be monitoring these, so feel free to leave me a message on any of 
 - University Email: `dbuencam@sfu.ca`
 - Personal Email: `d.bncmn@gmail.com`
 
-👀 Take a look at my resume [here](https://github.com/bncmn/bncmn/blob/53f0cfab5fca0c8f9fe4a065f3f9368605e07260/resume.pdf)!
+👀 Take a look at my resume [here](https://github.com/bncmn/bncmn/blob/main/resume.pdf)!
 
 Below, you will find some of the projects I have worked on.
 These consist of projects that I've worked on in my own time, projects I've worked on with friends, and projects I've worked on for school.
