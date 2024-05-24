@@ -3,7 +3,7 @@
 
 <img src="https://github.com/bncmn/bncmn/blob/b640fe851af31d374e7f2eabd5d7600c467ae32f/image.jpeg" width="50%" height="50%" align="right"/>
 
-I'm a 4th year Computing Science student at [Simon Fraser University](https://www.sfu.ca/), and I am projected to graduate this coming Fall of 2024.
+I'm a final year Computing Science student at [Simon Fraser University](https://www.sfu.ca/), and I am projected to graduate August of 2024.
 I've enjoyed tinkering and playing with computers since I was a little kid, and I'm glad to be exploring the ever-changing field of computer science!
 
 ### A few things about me!
