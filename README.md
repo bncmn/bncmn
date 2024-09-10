@@ -1,8 +1,6 @@
 
 # 👋 Hi there, nice to meet you!
 
-<img src="https://github.com/bncmn/bncmn/blob/b640fe851af31d374e7f2eabd5d7600c467ae32f/image.jpeg" width="50%" height="50%" align="right"/>
-
 I'm a Computing Science graduate from [Simon Fraser University](https://www.sfu.ca/) who is currently seeking any and all opportunities in tech!
 I've enjoyed tinkering and playing with computers since I was a little kid, and I'm glad to be exploring the ever-changing field of computer science!
 
