@@ -1,15 +1,14 @@
 
 # 👋 Hi there, nice to meet you!
 
-I'm a Computing Science graduate from [Simon Fraser University](https://www.sfu.ca/) who is currently seeking any and all opportunities in tech!
-I've enjoyed tinkering and playing with computers since I was a little kid, and I'm glad to be exploring the ever-changing field of computer science!
+I'm a Computing Science graduate from [Simon Fraser University](https://www.sfu.ca/) who is currently seeking any and all opportunities in tech.
+I'm extremely passionate about anything tech-related, and have messed with with computers since I was a little kid. I'm super stoked to be exploring the constantly evolving field of computers and technology!
 
 ### A few things about me!
 - 📋 I'm currently helping a friend grow his [small business](https://convivial.ca/)!
 - 🇵🇭 I moved to Canada from the Philippines with my family in 2013.
-- 💻 I love tinkering with electronics!
-- 🚗 I love talking about cars!
-- 🏂 I love snowboarding!
+- 🚗 I'm a bit of a car nerd!
+- 🏂 In the wintertime, you can catch me hitting the slopes on my snowboard (almost) every week!
 
 ### Reach out!
 I will always be monitoring these, so feel free to leave me a message on any of these platforms:
