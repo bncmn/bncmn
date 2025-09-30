@@ -14,7 +14,7 @@ I'm extremely passionate about anything tech-related, and have messed with with 
 I will always be monitoring these, so feel free to leave me a message on any of these platforms:
 - [LinkedIn](https://ca.linkedin.com/in/bncmn): `bncmn`
 - [Discord](https://discord.com/): `0df`
-- Personal Email: `d.bncmn@gmail.com`
+- Personal Email: `d.bncmn@gmail.com` or `dfbuencamino@gmail.com`
 
 👀 Take a look at my resume [here](https://github.com/bncmn/bncmn/blob/main/resume.pdf)!
 
