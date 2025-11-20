@@ -3,7 +3,7 @@
 
 I'm a Computing Science graduate from [Simon Fraser University](https://www.sfu.ca/) who is currently seeking any and all opportunities in tech.
 I'm extremely passionate about anything tech-related, and have messed with with computers and electronics since I was a little kid. 
-I'm super stoked to be exploring the constantly evolving field of computers and technology!
+Super stoked to be exploring the constantly evolving field of computers and technology!
 
 ### Reach out!
 I will always be monitoring these, so feel free to leave me a message on any of these platforms:
